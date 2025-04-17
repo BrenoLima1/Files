@@ -14,7 +14,6 @@ public class Program2 {
 			for (String line : lines) {
 				bw.write(line);
 				bw.newLine();
-				
 			}
 		}catch(IOException e) {
 			e.printStackTrace();
