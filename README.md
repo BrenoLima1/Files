@@ -1,21 +1,18 @@
 # Project Overview
 
-This project contains code for managing and processing files. Below is a brief description of the functionality provided:
+This project provides a set of tools for managing and processing files efficiently. It includes utilities for reading, writing, and manipulating files, along with robust error-handling mechanisms to ensure stability during file operations.
 
 ## Features
-- **File Reading**: Code to read data from files.
-- **File Writing**: Code to write data to files.
-- **File Manipulation**: Utilities for renaming, deleting, or copying files.
-- **Error Handling**: Robust error handling for file operations.
+- **File Reading**: Read data from various types of files.
+- **File Writing**: Write data to files with ease.
+- **File Manipulation**: Utilities to rename, delete, and copy files.
+- **Error Handling**: Comprehensive error handling for all file operations.
 
 ## Requirements
-- Java Development Kit (JDK) installed.
-- Eclipse IDE or any Java-compatible IDE.
+- **Java Development Kit (JDK)**: Ensure that the JDK is installed on your system.
+- **IDE**: Compatible with Eclipse IDE or any Java-compatible IDE.
 
-## How to Use
-1. Clone the repository to your local machine.
-2. Open the project in your IDE.
-3. Run the main class to execute the file operations.
-
-## Contribution
-Feel free to contribute by submitting pull requests or reporting issues.
+## Installation
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/BrenoLima1/Files.git
